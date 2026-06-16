@@ -41,4 +41,4 @@ This campaign tested Google Display Ads for a Hollywood-themed game using a limi
 
 ## Full Case Study
 
-Download the PDF from this repository.
+[View Full Case Study PDF](./Google%20Ads%20Case%20Study_Yashdeep.pdf)
